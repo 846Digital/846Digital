@@ -1,0 +1,67 @@
+<svg width="1200" height="440" viewBox="0 0 1200 440" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="440" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#050816"/>
+      <stop offset="0.52" stop-color="#0B1026"/>
+      <stop offset="1" stop-color="#071323"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="178" y1="95" x2="1017" y2="367" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#72F2FF"/>
+      <stop offset="0.5" stop-color="#6F9CFF"/>
+      <stop offset="1" stop-color="#A17EFF"/>
+    </linearGradient>
+    <radialGradient id="glowA" cx="0" cy="0" r="1" gradientTransform="translate(977 126) rotate(145) scale(386 300)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#5D8CFF" stop-opacity="0.35"/>
+      <stop offset="1" stop-color="#5D8CFF" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowB" cx="0" cy="0" r="1" gradientTransform="translate(249 35) rotate(55) scale(290 240)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#66E8FF" stop-opacity="0.18"/>
+      <stop offset="1" stop-color="#66E8FF" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="48" height="48" patternUnits="userSpaceOnUse">
+      <path d="M48 0H0V48" stroke="#8BA7FF" stroke-opacity="0.08"/>
+    </pattern>
+    <filter id="shadow" x="-40%" y="-40%" width="180%" height="180%">
+      <feDropShadow dx="0" dy="16" stdDeviation="26" flood-color="#5D8CFF" flood-opacity="0.25"/>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="440" rx="34" fill="url(#bg)"/>
+  <rect width="1200" height="440" rx="34" fill="url(#glowA)"/>
+  <rect width="1200" height="440" rx="34" fill="url(#glowB)"/>
+  <rect width="1200" height="440" rx="34" fill="url(#grid)"/>
+  <rect x="1" y="1" width="1198" height="438" rx="33" stroke="#8FA9FF" stroke-opacity="0.2" stroke-width="2"/>
+
+  <g opacity="0.7">
+    <circle cx="1016" cy="220" r="142" stroke="#6F9CFF" stroke-opacity="0.28"/>
+    <circle cx="1016" cy="220" r="102" stroke="#66E8FF" stroke-opacity="0.25" stroke-dasharray="8 12"/>
+    <circle cx="1016" cy="220" r="62" stroke="#A17EFF" stroke-opacity="0.38"/>
+    <path d="M1016 61V379M857 220H1175" stroke="#8FA9FF" stroke-opacity="0.12"/>
+    <circle cx="1016" cy="220" r="10" fill="url(#accent)" filter="url(#shadow)"/>
+  </g>
+
+  <g transform="translate(76 74)">
+    <rect width="74" height="74" rx="20" fill="#0E1732" stroke="#779AFF" stroke-opacity="0.45"/>
+    <path d="M18 21H39V34H18V21ZM18 40H39V53H18V40ZM27 34H39V40H27V34ZM47 21H57V36H69V46H57V56H47V21Z" fill="url(#accent)"/>
+  </g>
+
+  <text x="76" y="208" fill="#FFFFFF" font-size="70" font-weight="800" font-family="Arial, Helvetica, sans-serif" letter-spacing="-2">846 Digital</text>
+  <text x="78" y="258" fill="#AEB9D3" font-size="24" font-weight="500" font-family="Arial, Helvetica, sans-serif">
+    Разработка программных решений и внедрение ИИ
+  </text>
+
+  <g transform="translate(78 302)">
+    <rect width="202" height="48" rx="14" fill="#101A37" stroke="#72F2FF" stroke-opacity="0.35"/>
+    <text x="101" y="31" text-anchor="middle" fill="#D9FBFF" font-size="16" font-weight="700" font-family="Arial, Helvetica, sans-serif">РАЗРАБОТКА ПОД КЛЮЧ</text>
+
+    <rect x="216" width="160" height="48" rx="14" fill="#101A37" stroke="#779AFF" stroke-opacity="0.35"/>
+    <text x="296" y="31" text-anchor="middle" fill="#E4EAFF" font-size="16" font-weight="700" font-family="Arial, Helvetica, sans-serif">AI · AUTOMATION</text>
+
+    <rect x="390" width="190" height="48" rx="14" fill="#101A37" stroke="#A17EFF" stroke-opacity="0.35"/>
+    <text x="485" y="31" text-anchor="middle" fill="#F0E9FF" font-size="16" font-weight="700" font-family="Arial, Helvetica, sans-serif">WEB · BOTS · API</text>
+  </g>
+
+  <text x="78" y="395" fill="#73809D" font-size="15" font-weight="600" font-family="Arial, Helvetica, sans-serif" letter-spacing="2">
+    DESIGN • DEVELOPMENT • INTEGRATION • SUPPORT
+  </text>
+</svg>
