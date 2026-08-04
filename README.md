@@ -1,49 +1,10 @@
 <div align="center">
 
-# 846 Digital
 
-### Разрабатываем программные решения для бизнеса
 
-**Веб-приложения · ИИ-интеграции · Telegram-боты · Автоматизация · Парсинг · Backend · Frontend · Fullstack**
+<a href="https://ch1st.gitverse.site/portfolio" target="_blank">
 
-<br>
+<img src="./profile.svg" width="100%" alt="ch1st — Fullstack / AI / Systems · кликни чтобы открыть"/>
 
-[![Открыть сайт](https://img.shields.io/badge/Открыть_сайт-846_Digital-111111?style=for-the-badge)](https://846digital.github.io/)
+</a>
 
-</div>
-
----
-
-## О компании
-
-**846 Digital** — команда разработчиков, создающая программные продукты под задачи бизнеса.
-
-Мы берём проекты под ключ: от анализа требований и проектирования интерфейса до разработки, внедрения и технической поддержки.
-
-## Чем мы занимаемся
-
-- разработка веб-приложений и внутренних корпоративных систем;
-- внедрение искусственного интеллекта;
-- разработка Telegram-ботов;
-- автоматизация бизнес-процессов;
-- создание парсеров и систем сбора данных;
-- интеграции с API и сторонними сервисами;
-- frontend-, backend- и fullstack-разработка;
-- разработка индивидуального программного обеспечения.
-
-## Технологии
-
-`Python` `JavaScript` `TypeScript` `PHP` `React` `Vue`  
-`FastAPI` `Django` `Node.js` `SQL` `REST API` `Docker`  
-`AI` `LLM` `Telegram API` `Bitrix24`
-
-## Контакты
-
-**Telegram**
-
-- [+7 960 823-40-35](https://t.me/+79608234035)
-- [+7 937 987-87-26](https://t.me/+79379878726)
-
-**Сайт:** [846digital.github.io](https://846digital.github.io/)
-
-**GitHub:** [github.com/846Digital](https://github.com/846Digital)
