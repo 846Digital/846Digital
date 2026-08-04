@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://846digital.github.io/" title="Открыть сайт 846 Digital">
-    <img src="./assets/hero.svg" width="100%" alt="846 Digital — разработка программ, AI, ботов и автоматизации">
+    <img src="./assets/hero.png" width="100%" alt="846 Digital — разработка программ, AI, ботов и автоматизации">
   </a>
 </p>
 
