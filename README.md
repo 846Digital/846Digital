@@ -1,16 +1,49 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**846Digital/846Digital** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 846 Digital
 
-Here are some ideas to get you started:
+### Разрабатываем программные решения для бизнеса
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Веб-приложения · ИИ-интеграции · Telegram-боты · Автоматизация · Парсинг · Backend · Frontend · Fullstack**
+
+<br>
+
+[![Открыть сайт](https://img.shields.io/badge/Открыть_сайт-846_Digital-111111?style=for-the-badge)](https://846digital.github.io/)
+
+</div>
+
+---
+
+## О компании
+
+**846 Digital** — команда разработчиков, создающая программные продукты под задачи бизнеса.
+
+Мы берём проекты под ключ: от анализа требований и проектирования интерфейса до разработки, внедрения и технической поддержки.
+
+## Чем мы занимаемся
+
+- разработка веб-приложений и внутренних корпоративных систем;
+- внедрение искусственного интеллекта;
+- разработка Telegram-ботов;
+- автоматизация бизнес-процессов;
+- создание парсеров и систем сбора данных;
+- интеграции с API и сторонними сервисами;
+- frontend-, backend- и fullstack-разработка;
+- разработка индивидуального программного обеспечения.
+
+## Технологии
+
+`Python` `JavaScript` `TypeScript` `PHP` `React` `Vue`  
+`FastAPI` `Django` `Node.js` `SQL` `REST API` `Docker`  
+`AI` `LLM` `Telegram API` `Bitrix24`
+
+## Контакты
+
+**Telegram**
+
+- [+7 960 823-40-35](https://t.me/+79608234035)
+- [+7 937 987-87-26](https://t.me/+79379878726)
+
+**Сайт:** [846digital.github.io](https://846digital.github.io/)
+
+**GitHub:** [github.com/846Digital](https://github.com/846Digital)
