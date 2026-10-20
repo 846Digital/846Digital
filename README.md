@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://846digital.github.io/" title="Открыть сайт 846 Digital">
+  <a href="https://846digital.github.io/846main/" title="Открыть сайт 846 Digital">
     <img src="./assets/hero.png" width="100%" alt="846 Digital — разработка программ, AI, ботов и автоматизации">
   </a>
 </p>
